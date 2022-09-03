@@ -1,0 +1,20 @@
+body {
+  background-image: url(https://img.freepik.com/vetores-gratis/interior-de-uma-sala-de-aula_1308-26552.jpg?w=2000);
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  display: flex;
+  text-align: center;
+  margin-top: 200px;
+  }
+footer {
+  margin-right: 550px;
+  position: fixed;
+  bottom:0;
+  width: 60%;
+  text-align: center;
+  font-size: x-small;
+  }
+.red{
+  color: red;
+}
